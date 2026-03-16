@@ -42,7 +42,6 @@
 
 I live at the intersection of **language models** and **real-world systems** — RAG pipelines, fine-tuned transformers, multi-agent architectures. I care deeply about building AI that works outside the notebook. When I'm not shipping, I'm listening to music *(my first obsession)* or playing chess *(the original algorithm)*.
 
-> *"Turning music & coffee into models that actually work."*
 
 <br/>
 
