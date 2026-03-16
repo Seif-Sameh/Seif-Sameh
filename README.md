@@ -25,8 +25,19 @@
   <a href="https://github.com/Seif-Sameh">
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=A8B5C8" height="28"/>
   </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Listening%20on-Spotify-0A0A0A?style=flat-square&logo=spotify&logoColor=A8B5C8" height="28"/>
+</p>
+
+<!-- Vinyl Now Playing Card -->
+<p align="center">
+  <a href="https://open.spotify.com/track/1A9NdpGfoDP1369R1xZ4mZ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=99999&color=6B7A8D&center=true&vCenter=true&width=380&lines=%E2%96%B6+How+to+Impress+God+%E2%80%94+Saba+%26+No+ID+%F0%9F%8E%B5" height="32"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/1A9NdpGfoDP1369R1xZ4mZ">
+    <img src="https://img.shields.io/badge/%E2%97%8D%EF%B8%8E%20How%20to%20Impress%20God-Saba%20%26%20No%20ID-0A0A0A?style=flat-square&logo=spotify&logoColor=A8B5C8&labelColor=0A0A0A" height="28"/>
+  </a>
 </p>
 
 <br/>
