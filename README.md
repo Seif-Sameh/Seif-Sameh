@@ -1,9 +1,5 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1500&color=6B7A8D&center=true&vCenter=true&width=580&lines=%E2%96%B6+music+on+%F0%9F%8E%B5+%7C+%E2%99%9F%EF%B8%8F+chess+thinking+%7C+%F0%9F%A4%96+model+training..." />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A8B5C8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Seif+Eldeen+Sameh.;AI+%26+LLM+Engineer.;I+build+things+that+think." alt="Typing SVG" />
 </p>
 
@@ -24,13 +20,6 @@
   &nbsp;&nbsp;
   <a href="https://github.com/Seif-Sameh">
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=A8B5C8" height="28"/>
-  </a>
-</p>
-
-<!-- Spotify Card -->
-<p align="center">
-  <a href="https://open.spotify.com/track/1A9NdpGfoDP1369R1xZ4mZ">
-    <img src="./spotify-card.svg" alt="Now Playing: How to Impress God — Saba & No ID" width="420"/>
   </a>
 </p>
 
@@ -192,6 +181,10 @@ open_to:
 ---
 
 <br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=6B7A8D&center=true&vCenter=true&width=580&lines=%E2%96%B6+music+on+%F0%9F%8E%B5+%7C+%E2%99%9F%EF%B8%8F+chess+thinking+%7C+%F0%9F%A4%96+model+training..." />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Seif-Sameh&color=A8B5C8&style=flat-square&label=profile+views" />
