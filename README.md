@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=6B7A8D&center=true&vCenter=true&width=520&lines=Turning+music+%26+coffee+into+intelligent+systems+%E2%98%95%F0%9F%8E%B5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=6B7A8D&center=true&vCenter=true&width=520&lines=Turning+music+%26+coffee+into+code+%E2%98%95%F0%9F%8E%B5" />
 </p>
 
 <br/>
@@ -56,16 +56,16 @@ I live at the intersection of **language models** and **real-world systems** —
 **⚡ AI & LLM Development** — *where I spend most of my time*
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=flat-square&logo=pytorch&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/HuggingFace-0A0A0A?style=flat-square&logo=huggingface&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=chainlink&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logo=graphql&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/OpenAI-0A0A0A?style=flat-square&logo=openai&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Ollama-0A0A0A?style=flat-square&logo=llvm&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Transformers-0A0A0A?style=flat-square&logo=huggingface&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=flat-square&logo=opencv&logoColor=A8B5C8" height="26"/>
+  <img src="https://img.shields.io/badge/PyTorch-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/HuggingFace-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Ollama-0A0A0A?style=for-the-badge&logo=ollama&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Transformers-0A0A0A?style=for-the-badge&logo=huggingface&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/OpenCV-0A0A0A?style=for-the-badge&logo=opencv&logoColor=A8B5C8"/>
 </p>
 
 <br/>
@@ -73,13 +73,13 @@ I live at the intersection of **language models** and **real-world systems** —
 **🛠 Backend & Deployment**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Azure_AI-0A0A0A?style=flat-square&logo=microsoftazure&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=A8B5C8" height="26"/>
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Azure_AI-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=A8B5C8"/>
 </p>
 
 <br/>
@@ -87,10 +87,10 @@ I live at the intersection of **language models** and **real-world systems** —
 **📊 Data & ML**
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=flat-square&logo=plotly&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=A8B5C8" height="26"/>
+  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=A8B5C8"/>
 </p>
 
 <br/>
@@ -98,9 +98,9 @@ I live at the intersection of **language models** and **real-world systems** —
 **🎨 Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=A8B5C8" height="26"/>
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=A8B5C8" height="26"/>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=A8B5C8"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=A8B5C8"/>
 </p>
 
 <br/>
